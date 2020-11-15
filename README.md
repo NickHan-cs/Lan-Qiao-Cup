@@ -4,6 +4,8 @@ This repository contains my AC python codes for problems of [Lan-Qiao-Cup practi
 
 Here is the list of problems and their web links I have solved already.
 
+
+
 ### Problem List
 
 #### Introductory-Training
@@ -81,3 +83,11 @@ ALGO-246	[猴子吃包子](http://lx.lanqiao.cn/problem.page?gpid=T632)
 PREV-1	[核桃的数量](http://lx.lanqiao.cn/problem.page?gpid=T24)
 
 PREV-2	[打印十字图](http://lx.lanqiao.cn/problem.page?gpid=T25)
+
+PREV-4	[剪格子](http://lx.lanqiao.cn/problem.page?gpid=T27)
+
+PREV-6	[翻硬币](http://lx.lanqiao.cn/problem.page?gpid=T29)
+
+PREV-8	[买不到的数目](http://lx.lanqiao.cn/problem.page?gpid=T31)
+
+PREV-54	[合根植物](http://lx.lanqiao.cn/problem.page?gpid=T458)
