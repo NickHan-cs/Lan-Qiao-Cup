@@ -54,24 +54,30 @@ ALGO-3	[K好数](http://lx.lanqiao.cn/problem.page?gpid=T13)
 
 ALGO-6	[安慰奶牛](http://lx.lanqiao.cn/problem.page?gpid=T16)
 
-ALGO-43
+ALGO-42	[送分啦](http://lx.lanqiao.cn/problem.page?gpid=T106)
 
-ALGO-48
+ALGO-48	[关联矩阵](http://lx.lanqiao.cn/problem.page?gpid=T110)
 
-ALGO-49
+ALGO-49	[寻找数组中最大值](http://lx.lanqiao.cn/problem.page?gpid=T111)
 
-ALGO-51
+ALGO-51	[Torry的困惑(基本型)](http://lx.lanqiao.cn/problem.page?gpid=T129)
 
-ALGO-53
+ALGO-53	[最小乘积(基本型)](http://lx.lanqiao.cn/problem.page?gpid=T133)
 
-ALGO-189
+ALGO-189	[P0505](http://lx.lanqiao.cn/problem.page?gpid=T512)
 
-ALGO-201
+ALGO-201	[大等于n的最小完全平方数](http://lx.lanqiao.cn/problem.page?gpid=T535)
 
-ALGO-202
+ALGO-202	[二进制数数](http://lx.lanqiao.cn/problem.page?gpid=T536)
 
-ALGO-217
+ALGO-217	[景点游览](http://lx.lanqiao.cn/problem.page?gpid=T560)
 
-ALGO-233
+ALGO-233	[字符串合并](http://lx.lanqiao.cn/problem.page?gpid=T590)
 
-ALGO-246
+ALGO-246	[猴子吃包子](http://lx.lanqiao.cn/problem.page?gpid=T632)
+
+#### Previous-Examination-Questions
+
+PREV-1	[核桃的数量](http://lx.lanqiao.cn/problem.page?gpid=T24)
+
+PREV-2	[打印十字图](http://lx.lanqiao.cn/problem.page?gpid=T25)
