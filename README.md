@@ -53,3 +53,25 @@ ALGO-2	[最大最小公倍数](http://lx.lanqiao.cn/problem.page?gpid=T12)
 ALGO-3	[K好数](http://lx.lanqiao.cn/problem.page?gpid=T13)
 
 ALGO-6	[安慰奶牛](http://lx.lanqiao.cn/problem.page?gpid=T16)
+
+ALGO-43
+
+ALGO-48
+
+ALGO-49
+
+ALGO-51
+
+ALGO-53
+
+ALGO-189
+
+ALGO-201
+
+ALGO-202
+
+ALGO-217
+
+ALGO-233
+
+ALGO-246
